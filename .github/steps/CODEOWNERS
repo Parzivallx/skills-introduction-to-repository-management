@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Parzivallx
+/src/backend/database.py      @Parzivallx
+/src/backend/routers/auth.py  @Parzivallx
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Parzivallx
